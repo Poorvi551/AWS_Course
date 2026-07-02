@@ -5,11 +5,11 @@ AWS Notes
 
 * Virtualization is the process of creating multiple simulated environments or virtual machines from a single physical hardwae system, enabling more efficient resource use.
 
-<img width="924" height="509" alt="Screenshot 2026-07-02 175924" src="https://github.com/user-attachments/assets/1099fa0a-260a-4d01-9cfa-c97b8f6a7aec" />
+<img width="817" height="505" alt="Screenshot 2026-07-02 175924" src="https://github.com/user-attachments/assets/1099fa0a-260a-4d01-9cfa-c97b8f6a7aec" />
 
-<img width="926" height="507" alt="Screenshot 2026-07-02 180001" src="https://github.com/user-attachments/assets/996d5599-797d-4338-84ad-23071c23bde5" />
+<img width="817" height="505" alt="Screenshot 2026-07-02 180001" src="https://github.com/user-attachments/assets/996d5599-797d-4338-84ad-23071c23bde5" />
 
-<img width="917" height="505" alt="Screenshot 2026-07-02 180027" src="https://github.com/user-attachments/assets/ec8db2f2-eae7-4b75-a59e-ce16007623d7" />
+<img width="817" height="505" alt="Screenshot 2026-07-02 180027" src="https://github.com/user-attachments/assets/ec8db2f2-eae7-4b75-a59e-ce16007623d7" />
 
 ## But how to setup the virtualization?
 
