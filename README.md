@@ -14,7 +14,8 @@ AWS Notes
 ## But how to setup the virtualization?
 
 * Layer Hypervisor
-  <img width="817" height="405" alt="Screenshot 2026-07-02 180131" src="https://github.com/user-attachments/assets/c3956cc9-6845-44e0-b4a9-21c9a5ef9459" />
+  
+<img width="817" height="405" alt="Screenshot 2026-07-02 180131" src="https://github.com/user-attachments/assets/c3956cc9-6845-44e0-b4a9-21c9a5ef9459" />
 
 <img width="817" height="405" alt="Screenshot 2026-07-02 180231" src="https://github.com/user-attachments/assets/eff60481-e024-4f03-85c9-d872adb0e788" />
 
