@@ -3,6 +3,8 @@ AWS Notes
 
 ## Virtualization - virtual machines
 
+* Virtualization is the process of creating multiple simulated environments or virtual machines from a single physical hardwae system, enabling more efficient resource use.
+
 <img width="924" height="509" alt="Screenshot 2026-07-02 175924" src="https://github.com/user-attachments/assets/1099fa0a-260a-4d01-9cfa-c97b8f6a7aec" />
 
 <img width="926" height="507" alt="Screenshot 2026-07-02 180001" src="https://github.com/user-attachments/assets/996d5599-797d-4338-84ad-23071c23bde5" />
@@ -67,5 +69,70 @@ AWS Notes
 * Easy backup using snapshot
 * Easy recovery
 
-## Cloud Computing 
+# Cloud Computing 
 
+### Cloud Computing : 
+
+* On demand delivery of IT resources over the internet with pay-as-you-go pricing..
+* Access computing resources(like servers, storage, dtabases, and software) over the internet, rather than owing and ,aintaining physical hardware.
+
+* Many Companies provide cloud computing platform like:
+  <img width="919" height="533" alt="Screenshot 2026-07-02 183408" src="https://github.com/user-attachments/assets/b01447f9-96f2-4059-ba24-917b36fdb895" />
+
+* Virtualization is the process of creating multiple simulated environments or virtual machines from a single physical hardwae system, enabling more efficient resource use.
+
+###  Types of cloud computing :
+
+  1. IaaS 
+  2. PaaS
+  3. SaaS
+
+### 1. IaaS (Infrastructure as a service) 
+
+<img width="925" height="526" alt="Screenshot 2026-07-02 183950" src="https://github.com/user-attachments/assets/e3597dc6-21c9-4b6c-ad12-5e9d915f98cd" />
+
+* *Ex- icecream shop*
+<img width="918" height="511" alt="Screenshot 2026-07-02 184105" src="https://github.com/user-attachments/assets/72516bef-5871-4911-bb6f-7d9cc8c53889" />
+
+### 2. PaaS (Platform as a service)
+
+<img width="919" height="517" alt="Screenshot 2026-07-02 184207" src="https://github.com/user-attachments/assets/e0fae57a-c6f1-4037-b588-ff52ea940fe1" />
+
+* *Ex- icecream shop*
+<img width="929" height="525" alt="Screenshot 2026-07-02 184306" src="https://github.com/user-attachments/assets/ad715c90-663c-4828-84ba-929800c55ed9" />
+
+### 3. SaaS (Software as a service)
+
+<img width="922" height="521" alt="Screenshot 2026-07-02 184355" src="https://github.com/user-attachments/assets/a3e552e1-e232-445b-be90-a68cf5981b13" />
+
+* *Ex- icecream shop*
+  <img width="922" height="522" alt="Screenshot 2026-07-02 184539" src="https://github.com/user-attachments/assets/7243d393-3567-4f1c-a6f5-6ecd03b1eeb1" />
+
+* Different types of cloud deployments :
+
+    1. Public cloud,
+    2.  Private cloud, and
+    3.  Hybrid cloud. 
+
+1. **Public Cloud :** A shared cloud environment where multiple users can access services over the internet, like AWS or Azure.
+   
+2. **Private Cloud :** A dedicated cloud environment for one organization, offering more control and privacy.
+
+3. **Hybrid Cloud :** A mix of public and private clouds, allowing data and applications to move between them for flexibility. 
+
+### * Few Features commonly offered by cloud providers :
+
+1. Compute services
+2. Storage services
+3. Database services
+4. Networking services
+5. Container services
+6. Serverless Computing
+7. Machine Learning services
+8. Identity and access management(IAM)
+9. Monitoring and logging
+10. Content Delivery Network (CDN)
+11. Backup and Compliance Tools
+12. Virtual Private Cloud(VPC)
+13. Data Analytics services
+14. API Management
