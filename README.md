@@ -78,7 +78,8 @@ AWS Notes
 * Access computing resources(like servers, storage, dtabases, and software) over the internet, rather than owing and ,aintaining physical hardware.
 
 * Many Companies provide cloud computing platform like:
-  <img width="817" height="405" alt="Screenshot 2026-07-02 183408" src="https://github.com/user-attachments/assets/b01447f9-96f2-4059-ba24-917b36fdb895" />
+  
+<img width="817" height="405" alt="Screenshot 2026-07-02 183408" src="https://github.com/user-attachments/assets/b01447f9-96f2-4059-ba24-917b36fdb895" />
 
 * Virtualization is the process of creating multiple simulated environments or virtual machines from a single physical hardwae system, enabling more efficient resource use.
 
@@ -93,6 +94,7 @@ AWS Notes
 <img width="817" height="405" alt="Screenshot 2026-07-02 183950" src="https://github.com/user-attachments/assets/e3597dc6-21c9-4b6c-ad12-5e9d915f98cd" />
 
 * *Ex- icecream shop*
+
 <img width="817" height="405" alt="Screenshot 2026-07-02 184105" src="https://github.com/user-attachments/assets/72516bef-5871-4911-bb6f-7d9cc8c53889" />
 
 ### 2. PaaS (Platform as a service)
@@ -100,6 +102,7 @@ AWS Notes
 <img width="817" height="405" alt="Screenshot 2026-07-02 184207" src="https://github.com/user-attachments/assets/e0fae57a-c6f1-4037-b588-ff52ea940fe1" />
 
 * *Ex- icecream shop*
+  
 <img width="817" height="405" alt="Screenshot 2026-07-02 184306" src="https://github.com/user-attachments/assets/ad715c90-663c-4828-84ba-929800c55ed9" />
 
 ### 3. SaaS (Software as a service)
@@ -107,7 +110,8 @@ AWS Notes
 <img width="817" height="405" alt="Screenshot 2026-07-02 184355" src="https://github.com/user-attachments/assets/a3e552e1-e232-445b-be90-a68cf5981b13" />
 
 * *Ex- icecream shop*
-  <img width="817" height="405" alt="Screenshot 2026-07-02 184539" src="https://github.com/user-attachments/assets/7243d393-3567-4f1c-a6f5-6ecd03b1eeb1" />
+  
+<img width="817" height="405" alt="Screenshot 2026-07-02 184539" src="https://github.com/user-attachments/assets/7243d393-3567-4f1c-a6f5-6ecd03b1eeb1" />
 
 * Different types of cloud deployments :
 
