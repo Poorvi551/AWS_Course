@@ -141,3 +141,16 @@ AWS Notes
 12. Virtual Private Cloud(VPC)
 13. Data Analytics services
 14. API Management
+
+## Overview of AWS 
+
+* AWS offers a vast range of services, including compute power, storage solutions, networking, databases, and much more.
+* It is provided by Amazon services.
+* It offers a pay-as-you-go model,allowing you to pay only for what you use, which is ideal for optimizing costs.
+
+### History
+  
+* AWS was launched in 2006 as the first public cloud platform.
+* Started with Amazon S3 for storage and EC2 for compute power.
+* Now expanded into offering over 200 fully-featured services across various domains like AI, machine learning, IoT , and more..
+* They literally provide 200 services which are available from data warehousing to deployment tools
